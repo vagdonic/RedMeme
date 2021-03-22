@@ -1,0 +1,9 @@
+com/example/memeshare/MySingleton.java
+ com.example.memeshare.MySingleton
+com/example/memeshare/BuildConfig.java
+ com.example.memeshare.BuildConfig
+com/example/memeshare/MainActivity.java
+ com.example.memeshare.MainActivity
+ com.example.memeshare.MainActivity$1
+ com.example.memeshare.MainActivity$1$1
+ com.example.memeshare.MainActivity$2

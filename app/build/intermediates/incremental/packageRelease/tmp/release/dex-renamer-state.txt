@@ -1,0 +1,4 @@
+#Sun Jan 10 14:28:26 IST 2021
+base.0=/Users/Manav/AndroidStudioProjects/MemeShare/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
